@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Kitchen & Hearth",
+  "description": "Modern wood-fired artisanal cuisine, seasonal tasting menus, cellar pairings, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
